@@ -1,0 +1,4502 @@
+{
+  "title": "Architecture of Meaning — Research Network v0.1",
+  "nodes": [
+    {
+      "id": "n001",
+      "label": "Adam",
+      "cluster": "Eden",
+      "description": "Adam: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "Human protagonist of Genesis 2–3; examine command, knowledge, responsibility and narrative agency."
+    },
+    {
+      "id": "n002",
+      "label": "Eve",
+      "cluster": "Eden",
+      "description": "Eve: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n003",
+      "label": "Tree of Knowledge",
+      "cluster": "Eden",
+      "description": "Tree of Knowledge: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "Genesis 2:9, 2:16–17, 3:1–7; distinguish literary function from claims about historical botany."
+    },
+    {
+      "id": "n004",
+      "label": "Command",
+      "cluster": "Eden",
+      "description": "Command: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n005",
+      "label": "Serpent",
+      "cluster": "Eden",
+      "description": "Serpent: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n006",
+      "label": "Temptation",
+      "cluster": "Eden",
+      "description": "Temptation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n007",
+      "label": "Knowledge",
+      "cluster": "Eden",
+      "description": "Knowledge: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n008",
+      "label": "Shame",
+      "cluster": "Eden",
+      "description": "Shame: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n009",
+      "label": "Expulsion",
+      "cluster": "Eden",
+      "description": "Expulsion: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n010",
+      "label": "Free Will",
+      "cluster": "Eden",
+      "description": "Free Will: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n011",
+      "label": "Disobedience",
+      "cluster": "Eden",
+      "description": "Disobedience: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n012",
+      "label": "Naming",
+      "cluster": "Eden",
+      "description": "Naming: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n013",
+      "label": "Garden",
+      "cluster": "Eden",
+      "description": "Garden: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n014",
+      "label": "Mortality",
+      "cluster": "Eden",
+      "description": "Mortality: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n015",
+      "label": "Cain",
+      "cluster": "Cain",
+      "description": "Cain: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "Genesis 4:1–16; explore violence, responsibility, punishment and protection."
+    },
+    {
+      "id": "n016",
+      "label": "Abel",
+      "cluster": "Cain",
+      "description": "Abel: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n017",
+      "label": "Offering",
+      "cluster": "Cain",
+      "description": "Offering: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n018",
+      "label": "Jealousy",
+      "cluster": "Cain",
+      "description": "Jealousy: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n019",
+      "label": "Murder",
+      "cluster": "Cain",
+      "description": "Murder: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n020",
+      "label": "Blood",
+      "cluster": "Cain",
+      "description": "Blood: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n021",
+      "label": "Judgment",
+      "cluster": "Cain",
+      "description": "Judgment: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n022",
+      "label": "Protective Mark",
+      "cluster": "Cain",
+      "description": "Protective Mark: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "Genesis 4:15; sign of protection, whose physical form the text does not specify."
+    },
+    {
+      "id": "n023",
+      "label": "Exile",
+      "cluster": "Cain",
+      "description": "Exile: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n024",
+      "label": "Mercy",
+      "cluster": "Cain",
+      "description": "Mercy: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n025",
+      "label": "Responsibility",
+      "cluster": "Cain",
+      "description": "Responsibility: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n026",
+      "label": "Violence",
+      "cluster": "Cain",
+      "description": "Violence: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n027",
+      "label": "Noah",
+      "cluster": "Noah",
+      "description": "Noah: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "Genesis 6–9; preservation and judgment within the flood narrative."
+    },
+    {
+      "id": "n028",
+      "label": "Deluge",
+      "cluster": "Noah",
+      "description": "Deluge: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n029",
+      "label": "Ark",
+      "cluster": "Noah",
+      "description": "Ark: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n030",
+      "label": "Animals",
+      "cluster": "Noah",
+      "description": "Animals: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n031",
+      "label": "Remnant",
+      "cluster": "Noah",
+      "description": "Remnant: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n032",
+      "label": "Covenant",
+      "cluster": "Noah",
+      "description": "Covenant: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n033",
+      "label": "Rainbow",
+      "cluster": "Noah",
+      "description": "Rainbow: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n034",
+      "label": "Judgment by Flood",
+      "cluster": "Noah",
+      "description": "Judgment by Flood: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n035",
+      "label": "Preservation",
+      "cluster": "Noah",
+      "description": "Preservation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n036",
+      "label": "Collective Corruption",
+      "cluster": "Noah",
+      "description": "Collective Corruption: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n037",
+      "label": "Renewal",
+      "cluster": "Noah",
+      "description": "Renewal: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n038",
+      "label": "Divine Promise",
+      "cluster": "Noah",
+      "description": "Divine Promise: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n039",
+      "label": "David",
+      "cluster": "David",
+      "description": "David: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "2 Samuel 11–12; royal power, Uriah, accountability and pardon."
+    },
+    {
+      "id": "n040",
+      "label": "Bathsheba",
+      "cluster": "David",
+      "description": "Bathsheba: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n041",
+      "label": "Uriah",
+      "cluster": "David",
+      "description": "Uriah: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n042",
+      "label": "Power Abuse",
+      "cluster": "David",
+      "description": "Power Abuse: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n043",
+      "label": "Nathan",
+      "cluster": "David",
+      "description": "Nathan: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n044",
+      "label": "Repentance",
+      "cluster": "David",
+      "description": "Repentance: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n045",
+      "label": "Pardon",
+      "cluster": "David",
+      "description": "Pardon: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n046",
+      "label": "Psalm 51",
+      "cluster": "David",
+      "description": "Psalm 51: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n047",
+      "label": "Accountability",
+      "cluster": "David",
+      "description": "Accountability: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n048",
+      "label": "Forgiveness",
+      "cluster": "David",
+      "description": "Forgiveness: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n049",
+      "label": "Kingship",
+      "cluster": "David",
+      "description": "Kingship: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n050",
+      "label": "Jesus",
+      "cluster": "Jesus",
+      "description": "Jesus: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n051",
+      "label": "Cross",
+      "cluster": "Jesus",
+      "description": "Cross: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n052",
+      "label": "Atonement",
+      "cluster": "Jesus",
+      "description": "Atonement: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "Christian theological interpretations of Jesus’ death differ; do not collapse them into one model."
+    },
+    {
+      "id": "n053",
+      "label": "Reconciliation",
+      "cluster": "Jesus",
+      "description": "Reconciliation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n054",
+      "label": "Grace",
+      "cluster": "Jesus",
+      "description": "Grace: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n055",
+      "label": "Sacrifice",
+      "cluster": "Jesus",
+      "description": "Sacrifice: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n056",
+      "label": "Resurrection",
+      "cluster": "Jesus",
+      "description": "Resurrection: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n057",
+      "label": "Redemption",
+      "cluster": "Jesus",
+      "description": "Redemption: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n058",
+      "label": "Justice and Mercy",
+      "cluster": "Jesus",
+      "description": "Justice and Mercy: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n059",
+      "label": "New Covenant",
+      "cluster": "Jesus",
+      "description": "New Covenant: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n060",
+      "label": "Salvation",
+      "cluster": "Jesus",
+      "description": "Salvation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending"
+    },
+    {
+      "id": "n061",
+      "label": "Logos",
+      "cluster": "Jesus",
+      "description": "Logos: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "textual",
+      "source": "Primary biblical text; interpretation pending",
+      "research_note": "John 1:1–18; theological use of Greek logos, requiring attention to translation and context."
+    },
+    {
+      "id": "n062",
+      "label": "Omniscience",
+      "cluster": "Principles",
+      "description": "Omniscience: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n063",
+      "label": "Foreknowledge",
+      "cluster": "Principles",
+      "description": "Foreknowledge: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n064",
+      "label": "Prevention",
+      "cluster": "Principles",
+      "description": "Prevention: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n065",
+      "label": "Moral Agency",
+      "cluster": "Principles",
+      "description": "Moral Agency: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n066",
+      "label": "Divine Justice",
+      "cluster": "Principles",
+      "description": "Divine Justice: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n067",
+      "label": "Mercy Principle",
+      "cluster": "Principles",
+      "description": "Mercy Principle: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n068",
+      "label": "Authority",
+      "cluster": "Principles",
+      "description": "Authority: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n069",
+      "label": "Responsibility Principle",
+      "cluster": "Principles",
+      "description": "Responsibility Principle: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n070",
+      "label": "Free Choice",
+      "cluster": "Principles",
+      "description": "Free Choice: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n071",
+      "label": "Suffering",
+      "cluster": "Principles",
+      "description": "Suffering: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n072",
+      "label": "Punishment",
+      "cluster": "Principles",
+      "description": "Punishment: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n073",
+      "label": "Proportionality",
+      "cluster": "Principles",
+      "description": "Proportionality: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n074",
+      "label": "Consistency",
+      "cluster": "Principles",
+      "description": "Consistency: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n075",
+      "label": "Interpretation",
+      "cluster": "Principles",
+      "description": "Interpretation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n076",
+      "label": "Spell Etymology",
+      "cluster": "Language",
+      "description": "Spell Etymology: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending",
+      "research_note": "Separate spelling, enchantment and period-of-time senses; shared modern spelling does not prove a magical mechanism."
+    },
+    {
+      "id": "n077",
+      "label": "Speech Act",
+      "cluster": "Language",
+      "description": "Speech Act: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n078",
+      "label": "Framing",
+      "cluster": "Language",
+      "description": "Framing: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n079",
+      "label": "Naming as Power",
+      "cluster": "Language",
+      "description": "Naming as Power: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n080",
+      "label": "Dabar",
+      "cluster": "Language",
+      "description": "Dabar: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n081",
+      "label": "Logos Theology",
+      "cluster": "Language",
+      "description": "Logos Theology: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n082",
+      "label": "Babel",
+      "cluster": "Language",
+      "description": "Babel: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n083",
+      "label": "Incantation",
+      "cluster": "Language",
+      "description": "Incantation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n084",
+      "label": "Ritual",
+      "cluster": "Language",
+      "description": "Ritual: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n085",
+      "label": "Metaphor",
+      "cluster": "Language",
+      "description": "Metaphor: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n086",
+      "label": "Semantic Shift",
+      "cluster": "Language",
+      "description": "Semantic Shift: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n087",
+      "label": "Narrative",
+      "cluster": "Language",
+      "description": "Narrative: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n088",
+      "label": "Social Norms",
+      "cluster": "Society",
+      "description": "Social Norms: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n089",
+      "label": "Pluralistic Ignorance",
+      "cluster": "Society",
+      "description": "Pluralistic Ignorance: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending",
+      "research_note": "A group can misperceive what most members privately believe; requires measurement of private vs perceived norms."
+    },
+    {
+      "id": "n090",
+      "label": "Preference Falsification",
+      "cluster": "Society",
+      "description": "Preference Falsification: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n091",
+      "label": "Hegemony",
+      "cluster": "Society",
+      "description": "Hegemony: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n092",
+      "label": "Propaganda",
+      "cluster": "Society",
+      "description": "Propaganda: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n093",
+      "label": "Algorithmic Curation",
+      "cluster": "Society",
+      "description": "Algorithmic Curation: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n094",
+      "label": "Attention Economy",
+      "cluster": "Society",
+      "description": "Attention Economy: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n095",
+      "label": "Belief Revision",
+      "cluster": "Society",
+      "description": "Belief Revision: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n096",
+      "label": "Collective Awareness",
+      "cluster": "Society",
+      "description": "Collective Awareness: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending",
+      "research_note": "A research construct for changes in publicly expressed and privately held beliefs; not evidence of a literal mass awakening."
+    },
+    {
+      "id": "n097",
+      "label": "Group Identity",
+      "cluster": "Society",
+      "description": "Group Identity: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n098",
+      "label": "Diffusion",
+      "cluster": "Society",
+      "description": "Diffusion: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n099",
+      "label": "Evidence Standards",
+      "cluster": "Society",
+      "description": "Evidence Standards: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    },
+    {
+      "id": "n100",
+      "label": "Collective Narrative",
+      "cluster": "Society",
+      "description": "Collective Narrative: conceptual entry requiring textual or empirical evidence before claims of causality.",
+      "status": "conceptual",
+      "source": "Interdisciplinary literature; citation pending"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0001",
+      "source": "n001",
+      "target": "n003",
+      "type": "textual",
+      "rationale": "Genesis 2–3 places the tree within the command and transgression narrative.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0002",
+      "source": "n001",
+      "target": "n009",
+      "type": "textual",
+      "rationale": "Genesis 3 narrates expulsion after disobedience.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0003",
+      "source": "n015",
+      "target": "n019",
+      "type": "textual",
+      "rationale": "Genesis 4 narrates Cain killing Abel.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0004",
+      "source": "n015",
+      "target": "n022",
+      "type": "textual",
+      "rationale": "Genesis 4:15 reports a protective sign for Cain.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0005",
+      "source": "n027",
+      "target": "n028",
+      "type": "textual",
+      "rationale": "Genesis 6–9 associates Noah with the flood.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0006",
+      "source": "n027",
+      "target": "n030",
+      "type": "textual",
+      "rationale": "Genesis 6–8 includes animals preserved in the ark.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0007",
+      "source": "n039",
+      "target": "n041",
+      "type": "textual",
+      "rationale": "2 Samuel 11 narrates David’s actions involving Uriah.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0008",
+      "source": "n039",
+      "target": "n045",
+      "type": "interpretive",
+      "rationale": "Divine forgiveness and accountability require comparison of 2 Samuel 12 and Psalm 51.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0009",
+      "source": "n050",
+      "target": "n051",
+      "type": "textual",
+      "rationale": "Canonical gospel passion narratives describe Jesus’ crucifixion.",
+      "confidence": "source-dependent",
+      "evidence_required": false
+    },
+    {
+      "id": "e0010",
+      "source": "n051",
+      "target": "n052",
+      "type": "theological",
+      "rationale": "Atonement is a theological interpretation of the crucifixion, developed in multiple models.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0011",
+      "source": "n052",
+      "target": "n053",
+      "type": "theological",
+      "rationale": "Christian theological accounts link atonement with reconciliation.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0012",
+      "source": "n062",
+      "target": "n063",
+      "type": "philosophical",
+      "rationale": "The relation between complete knowledge and future contingents is debated in philosophy of religion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0013",
+      "source": "n063",
+      "target": "n065",
+      "type": "philosophical",
+      "rationale": "Divine foreknowledge and free agency form a classic compatibility problem.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0014",
+      "source": "n064",
+      "target": "n065",
+      "type": "philosophical",
+      "rationale": "Preventing harm may constrain or preserve agency depending on the proposed intervention.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0015",
+      "source": "n077",
+      "target": "n068",
+      "type": "conceptual",
+      "rationale": "Institutional speech acts depend on conventions and recognized authority.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0016",
+      "source": "n078",
+      "target": "n095",
+      "type": "empirical",
+      "rationale": "Framing can change judgments, but effects are conditional and context-dependent.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0017",
+      "source": "n089",
+      "target": "n088",
+      "type": "empirical",
+      "rationale": "Misestimated peer attitudes can maintain a publicly perceived norm.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0018",
+      "source": "n090",
+      "target": "n096",
+      "type": "empirical",
+      "rationale": "Changes in willingness to reveal private beliefs can produce rapid apparent opinion shifts.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0019",
+      "source": "n093",
+      "target": "n094",
+      "type": "empirical",
+      "rationale": "Recommender incentives and attention allocation interact; direction and magnitude require study.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0020",
+      "source": "n076",
+      "target": "n083",
+      "type": "historical",
+      "rationale": "The enchantment sense of spell has a historical linguistic relationship to speech/story traditions.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0021",
+      "source": "n061",
+      "target": "n081",
+      "type": "theological",
+      "rationale": "John 1 uses the Greek Logos within a distinct theological account.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0022",
+      "source": "n012",
+      "target": "n079",
+      "type": "interpretive",
+      "rationale": "Naming is narratively prominent in Genesis; power implications require textual argument.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0023",
+      "source": "n001",
+      "target": "n002",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Adam and Eve are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0024",
+      "source": "n001",
+      "target": "n004",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Adam and Command are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0025",
+      "source": "n002",
+      "target": "n003",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Eve and Tree of Knowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0026",
+      "source": "n002",
+      "target": "n004",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Eve and Command are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0027",
+      "source": "n002",
+      "target": "n005",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Eve and Serpent are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0028",
+      "source": "n003",
+      "target": "n004",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Tree of Knowledge and Command are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0029",
+      "source": "n003",
+      "target": "n005",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Tree of Knowledge and Serpent are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0030",
+      "source": "n003",
+      "target": "n006",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Tree of Knowledge and Temptation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0031",
+      "source": "n004",
+      "target": "n005",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Command and Serpent are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0032",
+      "source": "n004",
+      "target": "n006",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Command and Temptation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0033",
+      "source": "n004",
+      "target": "n007",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Command and Knowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0034",
+      "source": "n005",
+      "target": "n006",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Serpent and Temptation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0035",
+      "source": "n005",
+      "target": "n007",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Serpent and Knowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0036",
+      "source": "n005",
+      "target": "n008",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Serpent and Shame are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0037",
+      "source": "n006",
+      "target": "n007",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Temptation and Knowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0038",
+      "source": "n006",
+      "target": "n008",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Temptation and Shame are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0039",
+      "source": "n006",
+      "target": "n009",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Temptation and Expulsion are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0040",
+      "source": "n007",
+      "target": "n008",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Knowledge and Shame are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0041",
+      "source": "n007",
+      "target": "n009",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Knowledge and Expulsion are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0042",
+      "source": "n007",
+      "target": "n010",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Knowledge and Free Will are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0043",
+      "source": "n008",
+      "target": "n009",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Shame and Expulsion are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0044",
+      "source": "n008",
+      "target": "n010",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Shame and Free Will are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0045",
+      "source": "n008",
+      "target": "n011",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Shame and Disobedience are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0046",
+      "source": "n009",
+      "target": "n010",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Expulsion and Free Will are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0047",
+      "source": "n009",
+      "target": "n011",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Expulsion and Disobedience are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0048",
+      "source": "n009",
+      "target": "n012",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Expulsion and Naming are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0049",
+      "source": "n010",
+      "target": "n011",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Free Will and Disobedience are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0050",
+      "source": "n010",
+      "target": "n012",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Free Will and Naming are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0051",
+      "source": "n010",
+      "target": "n013",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Free Will and Garden are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0052",
+      "source": "n011",
+      "target": "n012",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Disobedience and Naming are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0053",
+      "source": "n011",
+      "target": "n013",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Disobedience and Garden are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0054",
+      "source": "n011",
+      "target": "n014",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Disobedience and Mortality are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0055",
+      "source": "n012",
+      "target": "n013",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Naming and Garden are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0056",
+      "source": "n012",
+      "target": "n014",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Naming and Mortality are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0057",
+      "source": "n012",
+      "target": "n001",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Naming and Adam are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0058",
+      "source": "n013",
+      "target": "n014",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Garden and Mortality are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0059",
+      "source": "n013",
+      "target": "n001",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Garden and Adam are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0060",
+      "source": "n013",
+      "target": "n002",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Garden and Eve are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0061",
+      "source": "n014",
+      "target": "n001",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Mortality and Adam are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0062",
+      "source": "n014",
+      "target": "n002",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Mortality and Eve are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0063",
+      "source": "n014",
+      "target": "n003",
+      "type": "interpretive",
+      "rationale": "Within the Eden cluster, Mortality and Tree of Knowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0064",
+      "source": "n015",
+      "target": "n016",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Cain and Abel are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0065",
+      "source": "n015",
+      "target": "n017",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Cain and Offering are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0066",
+      "source": "n015",
+      "target": "n018",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Cain and Jealousy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0067",
+      "source": "n016",
+      "target": "n017",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Abel and Offering are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0068",
+      "source": "n016",
+      "target": "n018",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Abel and Jealousy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0069",
+      "source": "n016",
+      "target": "n019",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Abel and Murder are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0070",
+      "source": "n017",
+      "target": "n018",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Offering and Jealousy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0071",
+      "source": "n017",
+      "target": "n019",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Offering and Murder are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0072",
+      "source": "n017",
+      "target": "n020",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Offering and Blood are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0073",
+      "source": "n018",
+      "target": "n019",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Jealousy and Murder are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0074",
+      "source": "n018",
+      "target": "n020",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Jealousy and Blood are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0075",
+      "source": "n018",
+      "target": "n021",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Jealousy and Judgment are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0076",
+      "source": "n019",
+      "target": "n020",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Murder and Blood are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0077",
+      "source": "n019",
+      "target": "n021",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Murder and Judgment are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0078",
+      "source": "n019",
+      "target": "n022",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Murder and Protective Mark are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0079",
+      "source": "n020",
+      "target": "n021",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Blood and Judgment are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0080",
+      "source": "n020",
+      "target": "n022",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Blood and Protective Mark are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0081",
+      "source": "n020",
+      "target": "n023",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Blood and Exile are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0082",
+      "source": "n021",
+      "target": "n022",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Judgment and Protective Mark are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0083",
+      "source": "n021",
+      "target": "n023",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Judgment and Exile are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0084",
+      "source": "n021",
+      "target": "n024",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Judgment and Mercy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0085",
+      "source": "n022",
+      "target": "n023",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Protective Mark and Exile are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0086",
+      "source": "n022",
+      "target": "n024",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Protective Mark and Mercy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0087",
+      "source": "n022",
+      "target": "n025",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Protective Mark and Responsibility are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0088",
+      "source": "n023",
+      "target": "n024",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Exile and Mercy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0089",
+      "source": "n023",
+      "target": "n025",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Exile and Responsibility are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0090",
+      "source": "n023",
+      "target": "n026",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Exile and Violence are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0091",
+      "source": "n024",
+      "target": "n025",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Mercy and Responsibility are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0092",
+      "source": "n024",
+      "target": "n026",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Mercy and Violence are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0093",
+      "source": "n024",
+      "target": "n015",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Mercy and Cain are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0094",
+      "source": "n025",
+      "target": "n026",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Responsibility and Violence are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0095",
+      "source": "n025",
+      "target": "n015",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Responsibility and Cain are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0096",
+      "source": "n025",
+      "target": "n016",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Responsibility and Abel are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0097",
+      "source": "n026",
+      "target": "n015",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Violence and Cain are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0098",
+      "source": "n026",
+      "target": "n016",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Violence and Abel are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0099",
+      "source": "n026",
+      "target": "n017",
+      "type": "interpretive",
+      "rationale": "Within the Cain cluster, Violence and Offering are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0100",
+      "source": "n027",
+      "target": "n029",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Noah and Ark are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0101",
+      "source": "n028",
+      "target": "n029",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Deluge and Ark are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0102",
+      "source": "n028",
+      "target": "n030",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Deluge and Animals are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0103",
+      "source": "n028",
+      "target": "n031",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Deluge and Remnant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0104",
+      "source": "n029",
+      "target": "n030",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Ark and Animals are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0105",
+      "source": "n029",
+      "target": "n031",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Ark and Remnant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0106",
+      "source": "n029",
+      "target": "n032",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Ark and Covenant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0107",
+      "source": "n030",
+      "target": "n031",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Animals and Remnant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0108",
+      "source": "n030",
+      "target": "n032",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Animals and Covenant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0109",
+      "source": "n030",
+      "target": "n033",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Animals and Rainbow are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0110",
+      "source": "n031",
+      "target": "n032",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Remnant and Covenant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0111",
+      "source": "n031",
+      "target": "n033",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Remnant and Rainbow are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0112",
+      "source": "n031",
+      "target": "n034",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Remnant and Judgment by Flood are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0113",
+      "source": "n032",
+      "target": "n033",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Covenant and Rainbow are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0114",
+      "source": "n032",
+      "target": "n034",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Covenant and Judgment by Flood are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0115",
+      "source": "n032",
+      "target": "n035",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Covenant and Preservation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0116",
+      "source": "n033",
+      "target": "n034",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Rainbow and Judgment by Flood are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0117",
+      "source": "n033",
+      "target": "n035",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Rainbow and Preservation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0118",
+      "source": "n033",
+      "target": "n036",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Rainbow and Collective Corruption are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0119",
+      "source": "n034",
+      "target": "n035",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Judgment by Flood and Preservation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0120",
+      "source": "n034",
+      "target": "n036",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Judgment by Flood and Collective Corruption are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0121",
+      "source": "n034",
+      "target": "n037",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Judgment by Flood and Renewal are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0122",
+      "source": "n035",
+      "target": "n036",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Preservation and Collective Corruption are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0123",
+      "source": "n035",
+      "target": "n037",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Preservation and Renewal are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0124",
+      "source": "n035",
+      "target": "n038",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Preservation and Divine Promise are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0125",
+      "source": "n036",
+      "target": "n037",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Collective Corruption and Renewal are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0126",
+      "source": "n036",
+      "target": "n038",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Collective Corruption and Divine Promise are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0127",
+      "source": "n036",
+      "target": "n027",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Collective Corruption and Noah are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0128",
+      "source": "n037",
+      "target": "n038",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Renewal and Divine Promise are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0129",
+      "source": "n037",
+      "target": "n027",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Renewal and Noah are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0130",
+      "source": "n037",
+      "target": "n028",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Renewal and Deluge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0131",
+      "source": "n038",
+      "target": "n027",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Divine Promise and Noah are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0132",
+      "source": "n038",
+      "target": "n028",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Divine Promise and Deluge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0133",
+      "source": "n038",
+      "target": "n029",
+      "type": "interpretive",
+      "rationale": "Within the Noah cluster, Divine Promise and Ark are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0134",
+      "source": "n039",
+      "target": "n040",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, David and Bathsheba are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0135",
+      "source": "n039",
+      "target": "n042",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, David and Power Abuse are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0136",
+      "source": "n040",
+      "target": "n041",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Bathsheba and Uriah are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0137",
+      "source": "n040",
+      "target": "n042",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Bathsheba and Power Abuse are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0138",
+      "source": "n040",
+      "target": "n043",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Bathsheba and Nathan are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0139",
+      "source": "n041",
+      "target": "n042",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Uriah and Power Abuse are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0140",
+      "source": "n041",
+      "target": "n043",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Uriah and Nathan are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0141",
+      "source": "n041",
+      "target": "n044",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Uriah and Repentance are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0142",
+      "source": "n042",
+      "target": "n043",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Power Abuse and Nathan are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0143",
+      "source": "n042",
+      "target": "n044",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Power Abuse and Repentance are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0144",
+      "source": "n042",
+      "target": "n045",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Power Abuse and Pardon are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0145",
+      "source": "n043",
+      "target": "n044",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Nathan and Repentance are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0146",
+      "source": "n043",
+      "target": "n045",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Nathan and Pardon are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0147",
+      "source": "n043",
+      "target": "n046",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Nathan and Psalm 51 are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0148",
+      "source": "n044",
+      "target": "n045",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Repentance and Pardon are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0149",
+      "source": "n044",
+      "target": "n046",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Repentance and Psalm 51 are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0150",
+      "source": "n044",
+      "target": "n047",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Repentance and Accountability are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0151",
+      "source": "n045",
+      "target": "n046",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Pardon and Psalm 51 are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0152",
+      "source": "n045",
+      "target": "n047",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Pardon and Accountability are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0153",
+      "source": "n045",
+      "target": "n048",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Pardon and Forgiveness are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0154",
+      "source": "n046",
+      "target": "n047",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Psalm 51 and Accountability are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0155",
+      "source": "n046",
+      "target": "n048",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Psalm 51 and Forgiveness are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0156",
+      "source": "n046",
+      "target": "n049",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Psalm 51 and Kingship are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0157",
+      "source": "n047",
+      "target": "n048",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Accountability and Forgiveness are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0158",
+      "source": "n047",
+      "target": "n049",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Accountability and Kingship are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0159",
+      "source": "n047",
+      "target": "n039",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Accountability and David are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0160",
+      "source": "n048",
+      "target": "n049",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Forgiveness and Kingship are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0161",
+      "source": "n048",
+      "target": "n039",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Forgiveness and David are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0162",
+      "source": "n048",
+      "target": "n040",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Forgiveness and Bathsheba are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0163",
+      "source": "n049",
+      "target": "n039",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Kingship and David are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0164",
+      "source": "n049",
+      "target": "n040",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Kingship and Bathsheba are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0165",
+      "source": "n049",
+      "target": "n041",
+      "type": "interpretive",
+      "rationale": "Within the David cluster, Kingship and Uriah are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0166",
+      "source": "n050",
+      "target": "n052",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Jesus and Atonement are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0167",
+      "source": "n050",
+      "target": "n053",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Jesus and Reconciliation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0168",
+      "source": "n051",
+      "target": "n053",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Cross and Reconciliation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0169",
+      "source": "n051",
+      "target": "n054",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Cross and Grace are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0170",
+      "source": "n052",
+      "target": "n054",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Atonement and Grace are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0171",
+      "source": "n052",
+      "target": "n055",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Atonement and Sacrifice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0172",
+      "source": "n053",
+      "target": "n054",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Reconciliation and Grace are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0173",
+      "source": "n053",
+      "target": "n055",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Reconciliation and Sacrifice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0174",
+      "source": "n053",
+      "target": "n056",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Reconciliation and Resurrection are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0175",
+      "source": "n054",
+      "target": "n055",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Grace and Sacrifice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0176",
+      "source": "n054",
+      "target": "n056",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Grace and Resurrection are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0177",
+      "source": "n054",
+      "target": "n057",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Grace and Redemption are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0178",
+      "source": "n055",
+      "target": "n056",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Sacrifice and Resurrection are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0179",
+      "source": "n055",
+      "target": "n057",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Sacrifice and Redemption are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0180",
+      "source": "n055",
+      "target": "n058",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Sacrifice and Justice and Mercy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0181",
+      "source": "n056",
+      "target": "n057",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Resurrection and Redemption are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0182",
+      "source": "n056",
+      "target": "n058",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Resurrection and Justice and Mercy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0183",
+      "source": "n056",
+      "target": "n059",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Resurrection and New Covenant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0184",
+      "source": "n057",
+      "target": "n058",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Redemption and Justice and Mercy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0185",
+      "source": "n057",
+      "target": "n059",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Redemption and New Covenant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0186",
+      "source": "n057",
+      "target": "n060",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Redemption and Salvation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0187",
+      "source": "n058",
+      "target": "n059",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Justice and Mercy and New Covenant are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0188",
+      "source": "n058",
+      "target": "n060",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Justice and Mercy and Salvation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0189",
+      "source": "n058",
+      "target": "n061",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Justice and Mercy and Logos are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0190",
+      "source": "n059",
+      "target": "n060",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, New Covenant and Salvation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0191",
+      "source": "n059",
+      "target": "n061",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, New Covenant and Logos are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0192",
+      "source": "n059",
+      "target": "n050",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, New Covenant and Jesus are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0193",
+      "source": "n060",
+      "target": "n061",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Salvation and Logos are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0194",
+      "source": "n060",
+      "target": "n050",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Salvation and Jesus are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0195",
+      "source": "n060",
+      "target": "n051",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Salvation and Cross are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0196",
+      "source": "n061",
+      "target": "n050",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Logos and Jesus are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0197",
+      "source": "n061",
+      "target": "n051",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Logos and Cross are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0198",
+      "source": "n061",
+      "target": "n052",
+      "type": "interpretive",
+      "rationale": "Within the Jesus cluster, Logos and Atonement are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0199",
+      "source": "n062",
+      "target": "n064",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Omniscience and Prevention are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0200",
+      "source": "n062",
+      "target": "n065",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Omniscience and Moral Agency are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0201",
+      "source": "n063",
+      "target": "n064",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Foreknowledge and Prevention are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0202",
+      "source": "n063",
+      "target": "n066",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Foreknowledge and Divine Justice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0203",
+      "source": "n064",
+      "target": "n066",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Prevention and Divine Justice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0204",
+      "source": "n064",
+      "target": "n067",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Prevention and Mercy Principle are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0205",
+      "source": "n065",
+      "target": "n066",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Moral Agency and Divine Justice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0206",
+      "source": "n065",
+      "target": "n067",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Moral Agency and Mercy Principle are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0207",
+      "source": "n065",
+      "target": "n068",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Moral Agency and Authority are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0208",
+      "source": "n066",
+      "target": "n067",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Divine Justice and Mercy Principle are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0209",
+      "source": "n066",
+      "target": "n068",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Divine Justice and Authority are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0210",
+      "source": "n066",
+      "target": "n069",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Divine Justice and Responsibility Principle are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0211",
+      "source": "n067",
+      "target": "n068",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Mercy Principle and Authority are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0212",
+      "source": "n067",
+      "target": "n069",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Mercy Principle and Responsibility Principle are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0213",
+      "source": "n067",
+      "target": "n070",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Mercy Principle and Free Choice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0214",
+      "source": "n068",
+      "target": "n069",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Authority and Responsibility Principle are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0215",
+      "source": "n068",
+      "target": "n070",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Authority and Free Choice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0216",
+      "source": "n068",
+      "target": "n071",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Authority and Suffering are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0217",
+      "source": "n069",
+      "target": "n070",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Responsibility Principle and Free Choice are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0218",
+      "source": "n069",
+      "target": "n071",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Responsibility Principle and Suffering are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0219",
+      "source": "n069",
+      "target": "n072",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Responsibility Principle and Punishment are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0220",
+      "source": "n070",
+      "target": "n071",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Free Choice and Suffering are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0221",
+      "source": "n070",
+      "target": "n072",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Free Choice and Punishment are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0222",
+      "source": "n070",
+      "target": "n073",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Free Choice and Proportionality are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0223",
+      "source": "n071",
+      "target": "n072",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Suffering and Punishment are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0224",
+      "source": "n071",
+      "target": "n073",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Suffering and Proportionality are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0225",
+      "source": "n071",
+      "target": "n074",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Suffering and Consistency are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0226",
+      "source": "n072",
+      "target": "n073",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Punishment and Proportionality are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0227",
+      "source": "n072",
+      "target": "n074",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Punishment and Consistency are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0228",
+      "source": "n072",
+      "target": "n075",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Punishment and Interpretation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0229",
+      "source": "n073",
+      "target": "n074",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Proportionality and Consistency are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0230",
+      "source": "n073",
+      "target": "n075",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Proportionality and Interpretation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0231",
+      "source": "n073",
+      "target": "n062",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Proportionality and Omniscience are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0232",
+      "source": "n074",
+      "target": "n075",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Consistency and Interpretation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0233",
+      "source": "n074",
+      "target": "n062",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Consistency and Omniscience are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0234",
+      "source": "n074",
+      "target": "n063",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Consistency and Foreknowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0235",
+      "source": "n075",
+      "target": "n062",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Interpretation and Omniscience are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0236",
+      "source": "n075",
+      "target": "n063",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Interpretation and Foreknowledge are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0237",
+      "source": "n075",
+      "target": "n064",
+      "type": "interpretive",
+      "rationale": "Within the Principles cluster, Interpretation and Prevention are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0238",
+      "source": "n076",
+      "target": "n077",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Spell Etymology and Speech Act are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0239",
+      "source": "n076",
+      "target": "n078",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Spell Etymology and Framing are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0240",
+      "source": "n076",
+      "target": "n079",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Spell Etymology and Naming as Power are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0241",
+      "source": "n077",
+      "target": "n078",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Speech Act and Framing are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0242",
+      "source": "n077",
+      "target": "n079",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Speech Act and Naming as Power are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0243",
+      "source": "n077",
+      "target": "n080",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Speech Act and Dabar are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0244",
+      "source": "n078",
+      "target": "n079",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Framing and Naming as Power are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0245",
+      "source": "n078",
+      "target": "n080",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Framing and Dabar are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0246",
+      "source": "n078",
+      "target": "n081",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Framing and Logos Theology are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0247",
+      "source": "n079",
+      "target": "n080",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Naming as Power and Dabar are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0248",
+      "source": "n079",
+      "target": "n081",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Naming as Power and Logos Theology are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0249",
+      "source": "n079",
+      "target": "n082",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Naming as Power and Babel are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0250",
+      "source": "n080",
+      "target": "n081",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Dabar and Logos Theology are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0251",
+      "source": "n080",
+      "target": "n082",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Dabar and Babel are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0252",
+      "source": "n080",
+      "target": "n083",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Dabar and Incantation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0253",
+      "source": "n081",
+      "target": "n082",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Logos Theology and Babel are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0254",
+      "source": "n081",
+      "target": "n083",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Logos Theology and Incantation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0255",
+      "source": "n081",
+      "target": "n084",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Logos Theology and Ritual are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0256",
+      "source": "n082",
+      "target": "n083",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Babel and Incantation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0257",
+      "source": "n082",
+      "target": "n084",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Babel and Ritual are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0258",
+      "source": "n082",
+      "target": "n085",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Babel and Metaphor are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0259",
+      "source": "n083",
+      "target": "n084",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Incantation and Ritual are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0260",
+      "source": "n083",
+      "target": "n085",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Incantation and Metaphor are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0261",
+      "source": "n083",
+      "target": "n086",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Incantation and Semantic Shift are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0262",
+      "source": "n084",
+      "target": "n085",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Ritual and Metaphor are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0263",
+      "source": "n084",
+      "target": "n086",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Ritual and Semantic Shift are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0264",
+      "source": "n084",
+      "target": "n087",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Ritual and Narrative are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0265",
+      "source": "n085",
+      "target": "n086",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Metaphor and Semantic Shift are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0266",
+      "source": "n085",
+      "target": "n087",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Metaphor and Narrative are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0267",
+      "source": "n085",
+      "target": "n076",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Metaphor and Spell Etymology are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0268",
+      "source": "n086",
+      "target": "n087",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Semantic Shift and Narrative are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0269",
+      "source": "n086",
+      "target": "n076",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Semantic Shift and Spell Etymology are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0270",
+      "source": "n086",
+      "target": "n077",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Semantic Shift and Speech Act are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0271",
+      "source": "n087",
+      "target": "n076",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Narrative and Spell Etymology are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0272",
+      "source": "n087",
+      "target": "n077",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Narrative and Speech Act are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0273",
+      "source": "n087",
+      "target": "n078",
+      "type": "interpretive",
+      "rationale": "Within the Language cluster, Narrative and Framing are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0274",
+      "source": "n088",
+      "target": "n090",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Social Norms and Preference Falsification are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0275",
+      "source": "n088",
+      "target": "n091",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Social Norms and Hegemony are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0276",
+      "source": "n089",
+      "target": "n090",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Pluralistic Ignorance and Preference Falsification are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0277",
+      "source": "n089",
+      "target": "n091",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Pluralistic Ignorance and Hegemony are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0278",
+      "source": "n089",
+      "target": "n092",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Pluralistic Ignorance and Propaganda are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0279",
+      "source": "n090",
+      "target": "n091",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Preference Falsification and Hegemony are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0280",
+      "source": "n090",
+      "target": "n092",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Preference Falsification and Propaganda are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0281",
+      "source": "n090",
+      "target": "n093",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Preference Falsification and Algorithmic Curation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0282",
+      "source": "n091",
+      "target": "n092",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Hegemony and Propaganda are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0283",
+      "source": "n091",
+      "target": "n093",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Hegemony and Algorithmic Curation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0284",
+      "source": "n091",
+      "target": "n094",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Hegemony and Attention Economy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0285",
+      "source": "n092",
+      "target": "n093",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Propaganda and Algorithmic Curation are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0286",
+      "source": "n092",
+      "target": "n094",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Propaganda and Attention Economy are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0287",
+      "source": "n092",
+      "target": "n095",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Propaganda and Belief Revision are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0288",
+      "source": "n093",
+      "target": "n095",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Algorithmic Curation and Belief Revision are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0289",
+      "source": "n093",
+      "target": "n096",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Algorithmic Curation and Collective Awareness are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0290",
+      "source": "n094",
+      "target": "n095",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Attention Economy and Belief Revision are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0291",
+      "source": "n094",
+      "target": "n096",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Attention Economy and Collective Awareness are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0292",
+      "source": "n094",
+      "target": "n097",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Attention Economy and Group Identity are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0293",
+      "source": "n095",
+      "target": "n096",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Belief Revision and Collective Awareness are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0294",
+      "source": "n095",
+      "target": "n097",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Belief Revision and Group Identity are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0295",
+      "source": "n095",
+      "target": "n098",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Belief Revision and Diffusion are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0296",
+      "source": "n096",
+      "target": "n097",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Collective Awareness and Group Identity are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0297",
+      "source": "n096",
+      "target": "n098",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Collective Awareness and Diffusion are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0298",
+      "source": "n096",
+      "target": "n099",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Collective Awareness and Evidence Standards are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0299",
+      "source": "n097",
+      "target": "n098",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Group Identity and Diffusion are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0300",
+      "source": "n097",
+      "target": "n099",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Group Identity and Evidence Standards are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0301",
+      "source": "n097",
+      "target": "n100",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Group Identity and Collective Narrative are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0302",
+      "source": "n098",
+      "target": "n099",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Diffusion and Evidence Standards are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0303",
+      "source": "n098",
+      "target": "n100",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Diffusion and Collective Narrative are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0304",
+      "source": "n098",
+      "target": "n088",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Diffusion and Social Norms are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0305",
+      "source": "n099",
+      "target": "n100",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Evidence Standards and Collective Narrative are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0306",
+      "source": "n099",
+      "target": "n088",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Evidence Standards and Social Norms are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0307",
+      "source": "n099",
+      "target": "n089",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Evidence Standards and Pluralistic Ignorance are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0308",
+      "source": "n100",
+      "target": "n088",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Collective Narrative and Social Norms are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0309",
+      "source": "n100",
+      "target": "n089",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Collective Narrative and Pluralistic Ignorance are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0310",
+      "source": "n100",
+      "target": "n090",
+      "type": "interpretive",
+      "rationale": "Within the Society cluster, Collective Narrative and Preference Falsification are compared as related interpretive dimensions. Not a verified causal assertion.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0311",
+      "source": "n001",
+      "target": "n062",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Adam ↔ Omniscience. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0312",
+      "source": "n002",
+      "target": "n065",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Eve ↔ Moral Agency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0313",
+      "source": "n003",
+      "target": "n068",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Tree of Knowledge ↔ Authority. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0314",
+      "source": "n004",
+      "target": "n071",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Command ↔ Suffering. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0315",
+      "source": "n005",
+      "target": "n074",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Serpent ↔ Consistency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0316",
+      "source": "n006",
+      "target": "n063",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Temptation ↔ Foreknowledge. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0317",
+      "source": "n007",
+      "target": "n066",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Knowledge ↔ Divine Justice. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0318",
+      "source": "n008",
+      "target": "n069",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Shame ↔ Responsibility Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0319",
+      "source": "n009",
+      "target": "n072",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Expulsion ↔ Punishment. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0320",
+      "source": "n010",
+      "target": "n075",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Free Will ↔ Interpretation. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0321",
+      "source": "n011",
+      "target": "n064",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Disobedience ↔ Prevention. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0322",
+      "source": "n012",
+      "target": "n067",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Naming ↔ Mercy Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0323",
+      "source": "n013",
+      "target": "n070",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Garden ↔ Free Choice. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0324",
+      "source": "n014",
+      "target": "n073",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Principles: Mortality ↔ Proportionality. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0325",
+      "source": "n015",
+      "target": "n062",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Cain ↔ Omniscience. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0326",
+      "source": "n016",
+      "target": "n065",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Abel ↔ Moral Agency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0327",
+      "source": "n017",
+      "target": "n068",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Offering ↔ Authority. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0328",
+      "source": "n018",
+      "target": "n071",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Jealousy ↔ Suffering. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0329",
+      "source": "n019",
+      "target": "n074",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Murder ↔ Consistency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0330",
+      "source": "n020",
+      "target": "n063",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Blood ↔ Foreknowledge. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0331",
+      "source": "n021",
+      "target": "n066",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Judgment ↔ Divine Justice. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0332",
+      "source": "n022",
+      "target": "n069",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Protective Mark ↔ Responsibility Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0333",
+      "source": "n023",
+      "target": "n072",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Exile ↔ Punishment. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0334",
+      "source": "n024",
+      "target": "n075",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Mercy ↔ Interpretation. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0335",
+      "source": "n025",
+      "target": "n064",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Responsibility ↔ Prevention. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0336",
+      "source": "n026",
+      "target": "n067",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Cain and Principles: Violence ↔ Mercy Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0337",
+      "source": "n027",
+      "target": "n062",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Noah ↔ Omniscience. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0338",
+      "source": "n028",
+      "target": "n065",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Deluge ↔ Moral Agency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0339",
+      "source": "n029",
+      "target": "n068",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Ark ↔ Authority. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0340",
+      "source": "n030",
+      "target": "n071",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Animals ↔ Suffering. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0341",
+      "source": "n031",
+      "target": "n074",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Remnant ↔ Consistency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0342",
+      "source": "n032",
+      "target": "n063",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Covenant ↔ Foreknowledge. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0343",
+      "source": "n033",
+      "target": "n066",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Rainbow ↔ Divine Justice. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0344",
+      "source": "n034",
+      "target": "n069",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Judgment by Flood ↔ Responsibility Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0345",
+      "source": "n035",
+      "target": "n072",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Preservation ↔ Punishment. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0346",
+      "source": "n036",
+      "target": "n075",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Collective Corruption ↔ Interpretation. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0347",
+      "source": "n037",
+      "target": "n064",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Renewal ↔ Prevention. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0348",
+      "source": "n038",
+      "target": "n067",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Noah and Principles: Divine Promise ↔ Mercy Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0349",
+      "source": "n039",
+      "target": "n062",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: David ↔ Omniscience. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0350",
+      "source": "n040",
+      "target": "n065",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Bathsheba ↔ Moral Agency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0351",
+      "source": "n041",
+      "target": "n068",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Uriah ↔ Authority. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0352",
+      "source": "n042",
+      "target": "n071",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Power Abuse ↔ Suffering. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0353",
+      "source": "n043",
+      "target": "n074",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Nathan ↔ Consistency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0354",
+      "source": "n044",
+      "target": "n063",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Repentance ↔ Foreknowledge. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0355",
+      "source": "n045",
+      "target": "n066",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Pardon ↔ Divine Justice. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0356",
+      "source": "n046",
+      "target": "n069",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Psalm 51 ↔ Responsibility Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0357",
+      "source": "n047",
+      "target": "n072",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Accountability ↔ Punishment. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0358",
+      "source": "n048",
+      "target": "n075",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Forgiveness ↔ Interpretation. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0359",
+      "source": "n049",
+      "target": "n064",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between David and Principles: Kingship ↔ Prevention. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0360",
+      "source": "n050",
+      "target": "n062",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Jesus ↔ Omniscience. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0361",
+      "source": "n051",
+      "target": "n065",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Cross ↔ Moral Agency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0362",
+      "source": "n052",
+      "target": "n068",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Atonement ↔ Authority. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0363",
+      "source": "n053",
+      "target": "n071",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Reconciliation ↔ Suffering. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0364",
+      "source": "n054",
+      "target": "n074",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Grace ↔ Consistency. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0365",
+      "source": "n055",
+      "target": "n063",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Sacrifice ↔ Foreknowledge. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0366",
+      "source": "n056",
+      "target": "n066",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Resurrection ↔ Divine Justice. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0367",
+      "source": "n057",
+      "target": "n069",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Redemption ↔ Responsibility Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0368",
+      "source": "n058",
+      "target": "n072",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Justice and Mercy ↔ Punishment. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0369",
+      "source": "n059",
+      "target": "n075",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: New Covenant ↔ Interpretation. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0370",
+      "source": "n060",
+      "target": "n064",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Salvation ↔ Prevention. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0371",
+      "source": "n061",
+      "target": "n067",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Principles: Logos ↔ Mercy Principle. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0372",
+      "source": "n001",
+      "target": "n076",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Adam ↔ Spell Etymology. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0373",
+      "source": "n002",
+      "target": "n079",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Eve ↔ Naming as Power. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0374",
+      "source": "n003",
+      "target": "n082",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Tree of Knowledge ↔ Babel. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0375",
+      "source": "n004",
+      "target": "n085",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Command ↔ Metaphor. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0376",
+      "source": "n005",
+      "target": "n076",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Serpent ↔ Spell Etymology. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0377",
+      "source": "n006",
+      "target": "n079",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Temptation ↔ Naming as Power. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0378",
+      "source": "n007",
+      "target": "n082",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Knowledge ↔ Babel. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0379",
+      "source": "n008",
+      "target": "n085",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Shame ↔ Metaphor. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0380",
+      "source": "n009",
+      "target": "n076",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Expulsion ↔ Spell Etymology. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0381",
+      "source": "n010",
+      "target": "n079",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Free Will ↔ Naming as Power. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0382",
+      "source": "n011",
+      "target": "n082",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Disobedience ↔ Babel. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0383",
+      "source": "n012",
+      "target": "n085",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Eden and Language: Naming ↔ Metaphor. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0384",
+      "source": "n050",
+      "target": "n076",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Jesus ↔ Spell Etymology. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0385",
+      "source": "n051",
+      "target": "n079",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Cross ↔ Naming as Power. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0386",
+      "source": "n052",
+      "target": "n082",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Atonement ↔ Babel. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0387",
+      "source": "n053",
+      "target": "n085",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Reconciliation ↔ Metaphor. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0388",
+      "source": "n054",
+      "target": "n076",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Grace ↔ Spell Etymology. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0389",
+      "source": "n055",
+      "target": "n079",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Sacrifice ↔ Naming as Power. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0390",
+      "source": "n056",
+      "target": "n082",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Resurrection ↔ Babel. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0391",
+      "source": "n057",
+      "target": "n085",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Redemption ↔ Metaphor. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0392",
+      "source": "n058",
+      "target": "n076",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Justice and Mercy ↔ Spell Etymology. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0393",
+      "source": "n059",
+      "target": "n079",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: New Covenant ↔ Naming as Power. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0394",
+      "source": "n060",
+      "target": "n082",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Salvation ↔ Babel. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0395",
+      "source": "n061",
+      "target": "n085",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Jesus and Language: Logos ↔ Metaphor. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0396",
+      "source": "n076",
+      "target": "n088",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Spell Etymology ↔ Social Norms. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0397",
+      "source": "n077",
+      "target": "n091",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Speech Act ↔ Hegemony. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0398",
+      "source": "n078",
+      "target": "n094",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Framing ↔ Attention Economy. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0399",
+      "source": "n079",
+      "target": "n097",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Naming as Power ↔ Group Identity. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0400",
+      "source": "n080",
+      "target": "n100",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Dabar ↔ Collective Narrative. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0401",
+      "source": "n081",
+      "target": "n090",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Logos Theology ↔ Preference Falsification. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0402",
+      "source": "n082",
+      "target": "n093",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Babel ↔ Algorithmic Curation. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0403",
+      "source": "n083",
+      "target": "n096",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Incantation ↔ Collective Awareness. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0404",
+      "source": "n084",
+      "target": "n099",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Ritual ↔ Evidence Standards. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0405",
+      "source": "n085",
+      "target": "n089",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Metaphor ↔ Pluralistic Ignorance. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0406",
+      "source": "n086",
+      "target": "n092",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Semantic Shift ↔ Propaganda. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0407",
+      "source": "n087",
+      "target": "n095",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Language and Society: Narrative ↔ Belief Revision. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0408",
+      "source": "n062",
+      "target": "n088",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Principles and Society: Omniscience ↔ Social Norms. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    },
+    {
+      "id": "e0409",
+      "source": "n063",
+      "target": "n091",
+      "type": "cross-domain",
+      "rationale": "Cross-domain comparison between Principles and Society: Foreknowledge ↔ Hegemony. Requires explicit argument, textual grounding and counter-reading.",
+      "confidence": "provisional",
+      "evidence_required": true
+    }
+  ],
+  "methodology": "All links are typed; candidate links are exploratory, not evidence. No quantum or supernatural causation is implied.",
+  "version": "2.0",
+  "provenance": "Restructured from user-provided network(2).json; no new edges added."
+}
